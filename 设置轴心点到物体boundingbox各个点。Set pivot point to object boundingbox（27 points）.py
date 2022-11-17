@@ -88,7 +88,7 @@ def setPivotsToBboxUI_help():
     # cmds.iconTextbutton(l="1",l="视频教程",style="textOnly", bgc=(.2, .2, .2),c="shell start http://dennisporter3d.com/mel.htm")//不得行
     # cmds.showWindow('setPivotsToBboxUI_help_ui')
 
-    webbrowser.open('https://www.baidu.com')
+    webbrowser.open('https://www.bilibili.com/video/av347674207')
 
 
 def ui():
